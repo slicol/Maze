@@ -1,2 +1,2 @@
 # Maze
-Hello
+Test
